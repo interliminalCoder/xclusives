@@ -17,9 +17,9 @@
   width: 48px;
   height: 48px;
   border-radius: 50%;
-  border: 1.5px solid rgba(255, 255, 255, 0.12);
-  background: rgba(255, 255, 255, 0.03);
-  color: rgba(255, 255, 255, 0.5);
+  border: 1.5px solid var(--arrow-border);
+  background: var(--arrow-bg);
+  color: var(--arrow-color);
   font-size: 2rem;
   cursor: pointer;
   transition: all var(--transition);
@@ -31,9 +31,9 @@
 }
 
 .slider-arrow:hover {
-  border-color: rgba(255, 255, 255, 0.3);
-  color: #fff;
-  background: rgba(255, 255, 255, 0.08);
+  border-color: var(--arrow-hover-border);
+  color: var(--text-primary);
+  background: var(--arrow-hover-bg);
 }
 
 .slider-arrow-left {
@@ -80,20 +80,21 @@
   height: 8px;
   border-radius: 50%;
   border: none;
-  background: rgba(255, 255, 255, 0.2);
+  background: var(--dot-bg);
   cursor: pointer;
   transition: all var(--transition);
   padding: 0;
 }
 
 .slider-dot:hover {
-  background: rgba(255, 255, 255, 0.4);
+  background: var(--dot-active);
+  opacity: 0.6;
 }
 
 .slider-dot.active {
   width: 24px;
   border-radius: 4px;
-  background: #fff;
+  background: var(--dot-active);
 }
 
 .slider-empty {
@@ -265,7 +266,7 @@
   text-decoration: none;
   background: var(--bg-card-alt);
   color: var(--text-card);
-  border: 1px solid rgba(0, 0, 0, 0.06);
+  border: 1px solid var(--card-link-border);
   transition: all var(--transition);
 }
 

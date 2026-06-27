@@ -5,6 +5,7 @@ import gamesData from './data/games.json'
 import { Header } from './components/Layout/Header'
 import { PlatformBar } from './components/Layout/PlatformBar'
 import { GameSlider } from './components/GameSlider/GameSlider'
+import { ThemeToggle } from './components/ThemeToggle/ThemeToggle'
 import './App.css'
 
 const platforms = platformsData as Platform[]
@@ -20,6 +21,7 @@ function App() {
 
   return (
     <div className="app">
+      <ThemeToggle />
       <Header />
       <PlatformBar
         platforms={platforms}
