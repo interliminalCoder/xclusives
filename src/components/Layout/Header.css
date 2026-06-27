@@ -2,24 +2,32 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 24px 20px 0;
+  padding: 28px 20px 0;
   flex-shrink: 0;
+  position: relative;
 }
 
 .header-brand {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 14px;
 }
 
 .header-star {
-  font-size: 1.4rem;
-  color: var(--accent);
+  font-size: 1.6rem;
+  background: var(--accent-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  filter: drop-shadow(0 0 12px rgba(255, 45, 85, 0.3));
 }
 
 .header-title {
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   font-weight: 700;
-  letter-spacing: -0.02em;
-  color: var(--text-primary);
+  letter-spacing: -0.03em;
+  background: var(--accent-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }

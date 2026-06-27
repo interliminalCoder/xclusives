@@ -2,8 +2,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 10px;
-  padding: 20px 20px 28px;
+  gap: 8px;
+  padding: 20px 20px 32px;
   flex-wrap: wrap;
   flex-shrink: 0;
 }
@@ -11,11 +11,11 @@
 .platform-chip {
   display: flex;
   align-items: center;
-  gap: 6px;
-  padding: 8px 18px;
-  border: 1.5px solid var(--chip-border);
-  border-radius: 100px;
-  background: transparent;
+  gap: 7px;
+  padding: 8px 20px;
+  border-radius: var(--radius-full);
+  border: 1px solid var(--border-glass);
+  background: var(--bg-glass);
   color: var(--text-secondary);
   font-family: var(--font);
   font-size: 0.8rem;
@@ -23,20 +23,24 @@
   cursor: pointer;
   transition: all var(--transition);
   letter-spacing: 0.02em;
+  backdrop-filter: var(--blur-sm);
+  -webkit-backdrop-filter: var(--blur-sm);
 }
 
 .platform-chip:hover {
-  border-color: var(--chip-border-hover);
+  border-color: var(--border-glass-hover);
   color: var(--text-primary);
-  background: var(--chip-bg-hover);
+  background: var(--bg-glass-hover);
+  transform: translateY(-1px);
 }
 
 .platform-chip.active {
-  border-color: var(--text-primary);
+  border-color: var(--border-glass-active);
   color: var(--text-primary);
-  background: var(--chip-bg-active);
+  background: var(--bg-glass-active);
+  box-shadow: 0 4px 16px rgba(255, 45, 85, 0.15);
 }
 
 .platform-chip-icon {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
