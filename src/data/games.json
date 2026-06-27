@@ -6,15 +6,28 @@
     "developer": "Mistwalker",
     "publisher": "Microsoft Game Studios",
     "releaseYear": 2007,
-    "genre": ["JRPG"],
+    "genre": [
+      "JRPG"
+    ],
     "description": "Un épico JRPG creado por el legendario Hironobu Sakaguchi (creador de Final Fantasy). Cuenta la historia de Kaim, un inmortal que ha vivido durante mil años, y sus aventuras en un mundo de magia y tecnología industrial. Destaca por sus conmovedores 'A Thousand Years of Dreams' - relatos cortos escritos por el novelista Kiyoshi Shigematsu.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1yj2.jpg",
     "rating": 86,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Lost_Odyssey" },
-      { "type": "buy", "label": "Xbox Store", "url": "https://www.xbox.com/es-AR/games/store/lost-odyssey/BP7N7BW84NNB" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=lost+odyssey+xbox+360" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Lost_Odyssey"
+      },
+      {
+        "type": "buy",
+        "label": "Xbox Store",
+        "url": "https://www.xbox.com/es-AR/games/store/lost-odyssey/BP7N7BW84NNB"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=lost+odyssey+xbox+360"
+      }
     ]
   },
   {
@@ -24,14 +37,23 @@
     "developer": "Mistwalker",
     "publisher": "Microsoft Game Studios",
     "releaseYear": 2006,
-    "genre": ["JRPG"],
+    "genre": [
+      "JRPG"
+    ],
     "description": "JRPG del creador de Final Fantasy con arte de Akira Toriyama (Dragon Ball). Sigue a Shu y sus amigos que controlan sombras mágicas para salvar el mundo. Un clásico de culto de la 360 con banda sonora de Nobuo Uematsu.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1yiz.jpg",
     "rating": 79,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Blue_Dragon" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=blue+dragon+xbox+360" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Blue_Dragon"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=blue+dragon+xbox+360"
+      }
     ]
   },
   {
@@ -41,15 +63,29 @@
     "developer": "Epic Games",
     "publisher": "Microsoft Game Studios",
     "releaseYear": 2006,
-    "genre": ["Third-Person Shooter", "Action"],
+    "genre": [
+      "Third-Person Shooter",
+      "Action"
+    ],
     "description": "El shooter que definió la 360. Controlás a Marcus Fenix en una guerra post-apocalíptica contra los Locust. Su sistema de cobertura y combate cuerpo a cuerpo con la motosierra Lancer marcó un antes y después en los shooters.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qjc.jpg",
     "rating": 94,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Gears_of_War_(videojuego)" },
-      { "type": "buy", "label": "Xbox Store", "url": "https://www.xbox.com/es-AR/games/store/gears-of-war/C0Z21QRL5B1Z" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=gears+of+war+xbox+360" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Gears_of_War_(videojuego)"
+      },
+      {
+        "type": "buy",
+        "label": "Xbox Store",
+        "url": "https://www.xbox.com/es-AR/games/store/gears-of-war/C0Z21QRL5B1Z"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=gears+of+war+xbox+360"
+      }
     ]
   },
   {
@@ -59,15 +95,29 @@
     "developer": "Bungie",
     "publisher": "Microsoft Game Studios",
     "releaseYear": 2007,
-    "genre": ["First-Person Shooter", "Sci-Fi"],
+    "genre": [
+      "First-Person Shooter",
+      "Sci-Fi"
+    ],
     "description": "La épica conclusión de la trilogía original de Halo. Master Chief regresa para terminar la lucha contra el Covenant y el Flood. Su multijugador y el innovador Forge Mode lo convirtieron en un fenómeno cultural.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qj9.jpg",
     "rating": 96,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Halo_3" },
-      { "type": "buy", "label": "Xbox Store", "url": "https://www.xbox.com/es-AR/games/store/halo-3/BXPMX3H3T7LR" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=halo+3+xbox+360" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Halo_3"
+      },
+      {
+        "type": "buy",
+        "label": "Xbox Store",
+        "url": "https://www.xbox.com/es-AR/games/store/halo-3/BXPMX3H3T7LR"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=halo+3+xbox+360"
+      }
     ]
   },
   {
@@ -77,15 +127,29 @@
     "developer": "Lionhead Studios",
     "publisher": "Microsoft Game Studios",
     "releaseYear": 2008,
-    "genre": ["Action RPG", "Open World"],
+    "genre": [
+      "Action RPG",
+      "Open World"
+    ],
     "description": "La obra maestra de Peter Molyneux. Un RPG de mundo abierto donde tus decisiones afectan físicamente a tu personaje y al mundo. Podés tener familia, comprar propiedades, y convertirte en héroe o villano.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zxb.jpg",
     "rating": 89,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Fable_II" },
-      { "type": "buy", "label": "Xbox Store", "url": "https://www.xbox.com/es-AR/games/store/fable-ii/BZBZX5J3KN79" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=fable+2+xbox+360" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Fable_II"
+      },
+      {
+        "type": "buy",
+        "label": "Xbox Store",
+        "url": "https://www.xbox.com/es-AR/games/store/fable-ii/BZBZX5J3KN79"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=fable+2+xbox+360"
+      }
     ]
   },
   {
@@ -95,14 +159,24 @@
     "developer": "Chair Entertainment",
     "publisher": "Microsoft Game Studios",
     "releaseYear": 2009,
-    "genre": ["Metroidvania", "Action"],
+    "genre": [
+      "Metroidvania",
+      "Action"
+    ],
     "description": "Un metroidvania en 2.5D basado en la novela 'Empire' de Orson Scott Card. Controlás a Jason Fleming explorando una base subterránea secreta. Considerado uno de los mejores XBLA Arcade de la historia.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1s4t.jpg",
     "rating": 88,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Shadow_Complex" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=shadow+complex+xbox+360" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Shadow_Complex"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=shadow+complex+xbox+360"
+      }
     ]
   },
   {
@@ -112,15 +186,29 @@
     "developer": "Rare",
     "publisher": "Microsoft Game Studios",
     "releaseYear": 2006,
-    "genre": ["Simulation", "Life Simulation"],
+    "genre": [
+      "Simulation",
+      "Life Simulation"
+    ],
     "description": "Un simulador de jardinería donde atraés y cuidás piñatas vivientes. Creado por Rare, es una joya de culto por su estilo visual colorido, su música pegadiza y su jugabilidad relajante pero profunda.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1s2l.jpg",
     "rating": 84,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Viva_Pi%C3%B1ata" },
-      { "type": "buy", "label": "Xbox Store", "url": "https://www.xbox.com/es-AR/games/store/viva-pinata/BRL6N3C3QDBD" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=viva+pinata+xbox+360" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Viva_Pi%C3%B1ata"
+      },
+      {
+        "type": "buy",
+        "label": "Xbox Store",
+        "url": "https://www.xbox.com/es-AR/games/store/viva-pinata/BRL6N3C3QDBD"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=viva+pinata+xbox+360"
+      }
     ]
   },
   {
@@ -130,15 +218,29 @@
     "developer": "Team Ico",
     "publisher": "Sony Computer Entertainment",
     "releaseYear": 2005,
-    "genre": ["Action-Adventure", "Puzzle"],
+    "genre": [
+      "Action-Adventure",
+      "Puzzle"
+    ],
     "description": "Una obra maestra atemporal. Encarnás a Wander, que debe derrotar a 16 colosales criaturas para revivir a una chica. Minimalista, épico y profundamente emotivo. Considerado una de las obras de arte más importantes del medio.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qva.jpg",
     "rating": 96,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Shadow_of_the_Colossus" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=shadow+of+the+colossus+ps2" },
-      { "type": "emulation", "label": "PCSX2", "url": "https://pcsx2.net/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Shadow_of_the_Colossus"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=shadow+of+the+colossus+ps2"
+      },
+      {
+        "type": "emulation",
+        "label": "PCSX2",
+        "url": "https://pcsx2.net/"
+      }
     ]
   },
   {
@@ -148,15 +250,29 @@
     "developer": "Santa Monica Studio",
     "publisher": "Sony Computer Entertainment",
     "releaseYear": 2007,
-    "genre": ["Action-Adventure", "Hack and Slash"],
+    "genre": [
+      "Action-Adventure",
+      "Hack and Slash"
+    ],
     "description": "La épica secuela del Dios de la Guerra. Kratos busca venganza contra Zeus en una aventura que supera al original en escala, combate y puzzles. Uno de los mejores juegos de acción de la historia.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qha.jpg",
     "rating": 95,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/God_of_War_II" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=god+of+war+2+ps2" },
-      { "type": "emulation", "label": "PCSX2", "url": "https://pcsx2.net/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/God_of_War_II"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=god+of+war+2+ps2"
+      },
+      {
+        "type": "emulation",
+        "label": "PCSX2",
+        "url": "https://pcsx2.net/"
+      }
     ]
   },
   {
@@ -166,15 +282,30 @@
     "developer": "Atlus",
     "publisher": "Atlus",
     "releaseYear": 2008,
-    "genre": ["JRPG", "Social Simulation", "Mystery"],
+    "genre": [
+      "JRPG",
+      "Social Simulation",
+      "Mystery"
+    ],
     "description": "Un JRPG que combina combate por turnos con simulación social. Seguís a un grupo de estudiantes resolviendo misterios en un pueblo rural mientras balanceás tu vida escolar y tus relaciones. Pura magia.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1yjz.jpg",
     "rating": 93,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Persona_4" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=persona+4+ps2" },
-      { "type": "emulation", "label": "PCSX2", "url": "https://pcsx2.net/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Persona_4"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=persona+4+ps2"
+      },
+      {
+        "type": "emulation",
+        "label": "PCSX2",
+        "url": "https://pcsx2.net/"
+      }
     ]
   },
   {
@@ -184,15 +315,29 @@
     "developer": "Clover Studio",
     "publisher": "Capcom",
     "releaseYear": 2006,
-    "genre": ["Action-Adventure", "Cel-Shaded"],
+    "genre": [
+      "Action-Adventure",
+      "Cel-Shaded"
+    ],
     "description": "Una obra de arte interactiva. Encarnás a Amaterasu, la diosa sol en forma de lobo, que debe salvar al mundo usando el Celestial Brush — un pincel que interactúa con el mundo. Su estilo visual en tinta y acuarela es único.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1f.jpg",
     "rating": 91,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/%C5%8Ckami" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=okami+ps2" },
-      { "type": "emulation", "label": "PCSX2", "url": "https://pcsx2.net/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/%C5%8Ckami"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=okami+ps2"
+      },
+      {
+        "type": "emulation",
+        "label": "PCSX2",
+        "url": "https://pcsx2.net/"
+      }
     ]
   },
   {
@@ -202,15 +347,30 @@
     "developer": "Insomniac Games",
     "publisher": "Sony Computer Entertainment",
     "releaseYear": 2005,
-    "genre": ["Action", "Platformer", "Third-Person Shooter"],
+    "genre": [
+      "Action",
+      "Platformer",
+      "Third-Person Shooter"
+    ],
     "description": "Conocido como 'Ratchet: Deadlocked' en USA. Un giro más oscuro y competitivo en la saga, con combates en arenas, personalización de robots de combate y un modo cooperativo. Puro caos divertido.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nxh.jpg",
     "rating": 83,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Ratchet:_Gladiator" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=ratchet+gladiator+ps2" },
-      { "type": "emulation", "label": "PCSX2", "url": "https://pcsx2.net/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Ratchet:_Gladiator"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=ratchet+gladiator+ps2"
+      },
+      {
+        "type": "emulation",
+        "label": "PCSX2",
+        "url": "https://pcsx2.net/"
+      }
     ]
   },
   {
@@ -220,15 +380,28 @@
     "developer": "Level-5",
     "publisher": "Square Enix",
     "releaseYear": 2004,
-    "genre": ["JRPG"],
+    "genre": [
+      "JRPG"
+    ],
     "description": "El JRPG más querido de la PS2. Arte de Akira Toriyama, animación de personajes y un mundo enorme por explorar. Una aventura clásica que encapsula todo lo que hace grande al género. Inolvidable.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1yjl.jpg",
     "rating": 93,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Dragon_Quest_VIII" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=dragon+quest+8+ps2" },
-      { "type": "emulation", "label": "PCSX2", "url": "https://pcsx2.net/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Dragon_Quest_VIII"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=dragon+quest+8+ps2"
+      },
+      {
+        "type": "emulation",
+        "label": "PCSX2",
+        "url": "https://pcsx2.net/"
+      }
     ]
   },
   {
@@ -238,15 +411,29 @@
     "developer": "Polyphony Digital",
     "publisher": "Sony Computer Entertainment",
     "releaseYear": 2004,
-    "genre": ["Racing", "Simulation"],
+    "genre": [
+      "Racing",
+      "Simulation"
+    ],
     "description": "El simulador de carreras definitivo de su generación. Cientos de autos, decenas de circuitos, un modo carrera profundo y gráficos que exprimían la PS2 al máximo. Una carta de amor al automovilismo.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q7k.jpg",
     "rating": 91,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Gran_Turismo_4" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=gran+turismo+4+ps2" },
-      { "type": "emulation", "label": "PCSX2", "url": "https://pcsx2.net/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Gran_Turismo_4"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=gran+turismo+4+ps2"
+      },
+      {
+        "type": "emulation",
+        "label": "PCSX2",
+        "url": "https://pcsx2.net/"
+      }
     ]
   },
   {
@@ -256,15 +443,29 @@
     "developer": "FromSoftware",
     "publisher": "Sony Computer Entertainment",
     "releaseYear": 2009,
-    "genre": ["Action RPG", "Soulslike"],
+    "genre": [
+      "Action RPG",
+      "Soulslike"
+    ],
     "description": "El origen del género soulslike. Un ARPG oscuro y desafiante donde cada muerte te enseña algo nuevo. Su mundo interconectado, su combate metódico y su atmósfera opresiva crearon un legado imborrable.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ny6.jpg",
     "rating": 92,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Demon%27s_Souls" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=demon+souls+ps3" },
-      { "type": "emulation", "label": "RPCS3", "url": "https://rpcs3.net/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Demon%27s_Souls"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=demon+souls+ps3"
+      },
+      {
+        "type": "emulation",
+        "label": "RPCS3",
+        "url": "https://rpcs3.net/"
+      }
     ]
   },
   {
@@ -274,15 +475,30 @@
     "developer": "Naughty Dog",
     "publisher": "Sony Computer Entertainment",
     "releaseYear": 2013,
-    "genre": ["Action-Adventure", "Survival Horror", "Stealth"],
+    "genre": [
+      "Action-Adventure",
+      "Survival Horror",
+      "Stealth"
+    ],
     "description": "Una obra maestra narrativa. Joel y Ellie atraviesan un Estados Unidos post-apocalíptico infectado por el hongo Cordyceps. Su historia, personajes y atención al detalle redefinieron lo que un videojuego puede ser.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r71.jpg",
     "rating": 97,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/The_Last_of_Us" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=the+last+of+us+ps3" },
-      { "type": "emulation", "label": "RPCS3", "url": "https://rpcs3.net/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/The_Last_of_Us"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=the+last+of+us+ps3"
+      },
+      {
+        "type": "emulation",
+        "label": "RPCS3",
+        "url": "https://rpcs3.net/"
+      }
     ]
   },
   {
@@ -292,15 +508,30 @@
     "developer": "Kojima Productions",
     "publisher": "Konami",
     "releaseYear": 2008,
-    "genre": ["Stealth", "Action", "Cinematic"],
+    "genre": [
+      "Stealth",
+      "Action",
+      "Cinematic"
+    ],
     "description": "El épico cierre de la saga de Solid Snake. Viajá por el mundo en una guerra de nanomáquinas mientras Snake enfrenta su destino. Una experiencia cinematográfica interactiva que solo la PS3 podía ofrecer.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r0m.jpg",
     "rating": 94,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Metal_Gear_Solid_4:_Guns_of_the_Patriots" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=metal+gear+solid+4+ps3" },
-      { "type": "emulation", "label": "RPCS3", "url": "https://rpcs3.net/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Metal_Gear_Solid_4:_Guns_of_the_Patriots"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=metal+gear+solid+4+ps3"
+      },
+      {
+        "type": "emulation",
+        "label": "RPCS3",
+        "url": "https://rpcs3.net/"
+      }
     ]
   },
   {
@@ -310,15 +541,30 @@
     "developer": "Naughty Dog",
     "publisher": "Sony Computer Entertainment",
     "releaseYear": 2009,
-    "genre": ["Action-Adventure", "Platformer", "Third-Person Shooter"],
+    "genre": [
+      "Action-Adventure",
+      "Platformer",
+      "Third-Person Shooter"
+    ],
     "description": "Una aventura cinematográfica trepidante. Nathan Drake busca la legendaria ciudad de Shambhala. Considerado uno de los mejores juegos de acción jamás creados, con setpieces inolvidables y un ritmo impecable.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r6f.jpg",
     "rating": 96,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Uncharted_2:_Among_Thieves" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=uncharted+2+ps3" },
-      { "type": "emulation", "label": "RPCS3", "url": "https://rpcs3.net/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Uncharted_2:_Among_Thieves"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=uncharted+2+ps3"
+      },
+      {
+        "type": "emulation",
+        "label": "RPCS3",
+        "url": "https://rpcs3.net/"
+      }
     ]
   },
   {
@@ -328,15 +574,30 @@
     "developer": "Media Molecule",
     "publisher": "Sony Computer Entertainment",
     "releaseYear": 2008,
-    "genre": ["Platformer", "Creative", "Puzzle"],
+    "genre": [
+      "Platformer",
+      "Creative",
+      "Puzzle"
+    ],
     "description": "Un plataformas donde creás y compartís tus propios niveles. Sackboy, el protagonista de trapo, conquistó corazones con su estilo artesanal. Su creador de niveles era tan potente que generó una comunidad inmensa.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r5x.jpg",
     "rating": 91,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/LittleBigPlanet" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=littlebigplanet+ps3" },
-      { "type": "emulation", "label": "RPCS3", "url": "https://rpcs3.net/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/LittleBigPlanet"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=littlebigplanet+ps3"
+      },
+      {
+        "type": "emulation",
+        "label": "RPCS3",
+        "url": "https://rpcs3.net/"
+      }
     ]
   },
   {
@@ -346,15 +607,30 @@
     "developer": "Sucker Punch Productions",
     "publisher": "Sony Computer Entertainment",
     "releaseYear": 2009,
-    "genre": ["Action-Adventure", "Open World", "Superhero"],
+    "genre": [
+      "Action-Adventure",
+      "Open World",
+      "Superhero"
+    ],
     "description": "Un sandbox de superhéroes donde controlás a Cole MacGrath, un mensajero que obtiene poderes eléctricos tras una explosión. Sistema de karma que afecta tu historia y poderes. Un exclusivo de PS3 imprescindible.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r3i.jpg",
     "rating": 88,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/InFamous" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=infamous+ps3" },
-      { "type": "emulation", "label": "RPCS3", "url": "https://rpcs3.net/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/InFamous"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=infamous+ps3"
+      },
+      {
+        "type": "emulation",
+        "label": "RPCS3",
+        "url": "https://rpcs3.net/"
+      }
     ]
   },
   {
@@ -364,15 +640,30 @@
     "developer": "Quantic Dream",
     "publisher": "Sony Computer Entertainment",
     "releaseYear": 2010,
-    "genre": ["Interactive Drama", "Adventure", "Thriller"],
+    "genre": [
+      "Interactive Drama",
+      "Adventure",
+      "Thriller"
+    ],
     "description": "Un thriller interactivo donde cuatro personajes buscan al asesino del Origami. Cada decisión importa y cualquiera puede morir para siempre. Una experiencia narrativa única que expandió los límites del medio.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r51.jpg",
     "rating": 84,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Heavy_Rain" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=heavy+rain+ps3" },
-      { "type": "emulation", "label": "RPCS3", "url": "https://rpcs3.net/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Heavy_Rain"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=heavy+rain+ps3"
+      },
+      {
+        "type": "emulation",
+        "label": "RPCS3",
+        "url": "https://rpcs3.net/"
+      }
     ]
   },
   {
@@ -382,15 +673,29 @@
     "developer": "Jupiter",
     "publisher": "Square Enix",
     "releaseYear": 2007,
-    "genre": ["Action RPG", "Stylish"],
+    "genre": [
+      "Action RPG",
+      "Stylish"
+    ],
     "description": "Un ARPG único que aprovecha al máximo las dos pantallas de la DS. Controlás a Neku en el Reapers' Game, un concurso sobrenatural en el Shibuya de Tokio. Su estética, banda sonora y sistema de combate dual son inolvidables.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qqj.jpg",
     "rating": 89,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/The_World_Ends_with_You" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=the+world+ends+with+you+ds" },
-      { "type": "emulation", "label": "MelonDS", "url": "https://melonds.kuribo64.net/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/The_World_Ends_with_You"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=the+world+ends+with+you+ds"
+      },
+      {
+        "type": "emulation",
+        "label": "MelonDS",
+        "url": "https://melonds.kuribo64.net/"
+      }
     ]
   },
   {
@@ -400,15 +705,30 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "releaseYear": 2010,
-    "genre": ["Puzzle", "Adventure", "Mystery"],
+    "genre": [
+      "Puzzle",
+      "Adventure",
+      "Mystery"
+    ],
     "description": "Una joya de culto del creador de Ace Attorney. Sos Sissel, un fantasma que debe resolver su propio asesinato usando poderes fantasmales para manipular objetos y viajar 4 minutos antes de la muerte. Su narrativa es impecable.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qph.jpg",
     "rating": 88,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Ghost_Trick:_Phantom_Detective" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=ghost+trick+phantom+detective+ds" },
-      { "type": "emulation", "label": "MelonDS", "url": "https://melonds.kuribo64.net/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Ghost_Trick:_Phantom_Detective"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=ghost+trick+phantom+detective+ds"
+      },
+      {
+        "type": "emulation",
+        "label": "MelonDS",
+        "url": "https://melonds.kuribo64.net/"
+      }
     ]
   },
   {
@@ -418,15 +738,29 @@
     "developer": "iNiS",
     "publisher": "Nintendo",
     "releaseYear": 2006,
-    "genre": ["Rhythm", "Music"],
+    "genre": [
+      "Rhythm",
+      "Music"
+    ],
     "description": "Un juego de ritmo donde tres agentes secretos ayudan a la gente bailando al ritmo de canciones populares. Divertidísimo, desafiante y con una vibra positive que es imposible no disfrutar. Uno de los mejores rhythm games.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qq0.jpg",
     "rating": 86,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Elite_Beat_Agents" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=elite+beat+agents+ds" },
-      { "type": "emulation", "label": "MelonDS", "url": "https://melonds.kuribo64.net/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Elite_Beat_Agents"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=elite+beat+agents+ds"
+      },
+      {
+        "type": "emulation",
+        "label": "MelonDS",
+        "url": "https://melonds.kuribo64.net/"
+      }
     ]
   },
   {
@@ -436,15 +770,31 @@
     "developer": "Chunsoft",
     "publisher": "Aksys Games",
     "releaseYear": 2009,
-    "genre": ["Visual Novel", "Adventure", "Puzzle", "Mystery"],
+    "genre": [
+      "Visual Novel",
+      "Adventure",
+      "Puzzle",
+      "Mystery"
+    ],
     "description": "Una novel visual de misterio donde 9 personas secuestradas deben escapar de un barco en 9 horas. Múltiples finales, puzzles ingeniosos y una historia retorcida que aprovecha la doble pantalla de forma brillante.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qq3.jpg",
     "rating": 87,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/999:_Nine_Hours,_Nine_Persons,_Nine_Doors" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=999+nine+hours+ds" },
-      { "type": "emulation", "label": "MelonDS", "url": "https://melonds.kuribo64.net/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/999:_Nine_Hours,_Nine_Persons,_Nine_Doors"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=999+nine+hours+ds"
+      },
+      {
+        "type": "emulation",
+        "label": "MelonDS",
+        "url": "https://melonds.kuribo64.net/"
+      }
     ]
   },
   {
@@ -454,15 +804,30 @@
     "developer": "Level-5",
     "publisher": "Nintendo",
     "releaseYear": 2007,
-    "genre": ["Puzzle", "Adventure", "Mystery"],
+    "genre": [
+      "Puzzle",
+      "Adventure",
+      "Mystery"
+    ],
     "description": "El inicio de la querida saga. El Profesor Layton y su aprendiz Luke viajan al pueblo de St. Mystere para resolver el misterio del Barón Reinhold. Cientos de puzzles, una historia encantadora y un estilo visual como de película.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qpm.jpg",
     "rating": 87,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Professor_Layton_y_el_pueblo_misterioso" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=professor+layton+curious+village+ds" },
-      { "type": "emulation", "label": "MelonDS", "url": "https://melonds.kuribo64.net/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Professor_Layton_y_el_pueblo_misterioso"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=professor+layton+curious+village+ds"
+      },
+      {
+        "type": "emulation",
+        "label": "MelonDS",
+        "url": "https://melonds.kuribo64.net/"
+      }
     ]
   },
   {
@@ -472,15 +837,30 @@
     "developer": "Konami",
     "publisher": "Konami",
     "releaseYear": 2005,
-    "genre": ["Metroidvania", "Action", "Platformer"],
+    "genre": [
+      "Metroidvania",
+      "Action",
+      "Platformer"
+    ],
     "description": "La secuela directa de Aria of Sorrow y uno de los mejores Metroidvania de la historia. Controlás a Soma Cruz en un castillo demoníaco. El sistema de almas para obtener poderes y los dibujos en pantalla táctil son geniales.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qpp.jpg",
     "rating": 90,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Castlevania:_Dawn_of_Sorrow" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=castlevania+dawn+of+sorrow+ds" },
-      { "type": "emulation", "label": "MelonDS", "url": "https://melonds.kuribo64.net/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Castlevania:_Dawn_of_Sorrow"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=castlevania+dawn+of+sorrow+ds"
+      },
+      {
+        "type": "emulation",
+        "label": "MelonDS",
+        "url": "https://melonds.kuribo64.net/"
+      }
     ]
   },
   {
@@ -490,15 +870,30 @@
     "developer": "Project Sora",
     "publisher": "Nintendo",
     "releaseYear": 2012,
-    "genre": ["Action", "Third-Person Shooter", "Rail Shooter"],
+    "genre": [
+      "Action",
+      "Third-Person Shooter",
+      "Rail Shooter"
+    ],
     "description": "El regreso triunfal de Pit, creado por Masahiro Sakurai (Smash Bros). Una mezcla de shooter sobre rieles y combate en tercera persona con un humor brillante, diálogos memorables y una banda sonora espectacular. Una locura única.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qsc.jpg",
     "rating": 88,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Kid_Icarus:_Uprising" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=kid+icarus+uprising+3ds" },
-      { "type": "emulation", "label": "Citra", "url": "https://citra-emu.org/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Kid_Icarus:_Uprising"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=kid+icarus+uprising+3ds"
+      },
+      {
+        "type": "emulation",
+        "label": "Citra",
+        "url": "https://citra-emu.org/"
+      }
     ]
   },
   {
@@ -508,15 +903,29 @@
     "developer": "Intelligent Systems",
     "publisher": "Nintendo",
     "releaseYear": 2012,
-    "genre": ["Tactical RPG", "Strategy"],
+    "genre": [
+      "Tactical RPG",
+      "Strategy"
+    ],
     "description": "El juego que salvó a Fire Emblem de la extinción. Un T-RPG profundo con combate por turnos, relaciones entre personajes, y una historia épica de viajes en el tiempo. Considerado uno de los mejores SRPG de la historia.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qs8.jpg",
     "rating": 94,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Fire_Emblem_Awakening" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=fire+emblem+awakening+3ds" },
-      { "type": "emulation", "label": "Citra", "url": "https://citra-emu.org/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Fire_Emblem_Awakening"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=fire+emblem+awakening+3ds"
+      },
+      {
+        "type": "emulation",
+        "label": "Citra",
+        "url": "https://citra-emu.org/"
+      }
     ]
   },
   {
@@ -526,15 +935,29 @@
     "developer": "Nintendo EAD",
     "publisher": "Nintendo",
     "releaseYear": 2013,
-    "genre": ["Action-Adventure", "Puzzle"],
+    "genre": [
+      "Action-Adventure",
+      "Puzzle"
+    ],
     "description": "Una secuela espiritual de A Link to the Past. Link puede convertirse en pintura para moverse por las paredes, abriendo un mundo de posibilidades en Hyrule y Lorule. Un Zelda clásico con giros modernos brillantes.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qry.jpg",
     "rating": 92,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_Between_Worlds" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=zelda+a+link+between+worlds+3ds" },
-      { "type": "emulation", "label": "Citra", "url": "https://citra-emu.org/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_Between_Worlds"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=zelda+a+link+between+worlds+3ds"
+      },
+      {
+        "type": "emulation",
+        "label": "Citra",
+        "url": "https://citra-emu.org/"
+      }
     ]
   },
   {
@@ -544,15 +967,29 @@
     "developer": "Silicon Studio",
     "publisher": "Nintendo",
     "releaseYear": 2012,
-    "genre": ["JRPG", "Turn-Based"],
+    "genre": [
+      "JRPG",
+      "Turn-Based"
+    ],
     "description": "Un JRPG clásico con un innovador sistema de combate donde podés 'Brave' (adelantar turnos) o 'Default' (defender y acumular). Arte de Akihiko Yoshida (Final Fantasy Tactics) y banda sonora de Revo. Una carta de amor al género.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qrf.jpg",
     "rating": 87,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Bravely_Default" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=bravely+default+3ds" },
-      { "type": "emulation", "label": "Citra", "url": "https://citra-emu.org/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Bravely_Default"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=bravely+default+3ds"
+      },
+      {
+        "type": "emulation",
+        "label": "Citra",
+        "url": "https://citra-emu.org/"
+      }
     ]
   },
   {
@@ -562,15 +999,30 @@
     "developer": "Level-5",
     "publisher": "Nintendo",
     "releaseYear": 2012,
-    "genre": ["Action RPG", "Life Simulation", "Crafting"],
+    "genre": [
+      "Action RPG",
+      "Life Simulation",
+      "Crafting"
+    ],
     "description": "Un RPG donde elegís entre 12 profesiones (vidas) como mago, minero, cocinero o pescador. Podés cambiar de vida cuando quieras, creando una experiencia única. Level-5 en su máxima expresión. Adictivo y encantador.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qrs.jpg",
     "rating": 82,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Fantasy_Life" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=fantasy+life+3ds" },
-      { "type": "emulation", "label": "Citra", "url": "https://citra-emu.org/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Fantasy_Life"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=fantasy+life+3ds"
+      },
+      {
+        "type": "emulation",
+        "label": "Citra",
+        "url": "https://citra-emu.org/"
+      }
     ]
   },
   {
@@ -580,15 +1032,30 @@
     "developer": "Atlus",
     "publisher": "Atlus",
     "releaseYear": 2013,
-    "genre": ["JRPG", "Post-Apocalyptic", "Dark Fantasy"],
+    "genre": [
+      "JRPG",
+      "Post-Apocalyptic",
+      "Dark Fantasy"
+    ],
     "description": "Un JRPG oscuro y desafiante donde la ley y el caos chocan. Como samurai de Tokyo oriental, explorás un mundo post-apocalíptico reclutando demonios y decidiendo el destino de la humanidad. Difícil, profundo y gratificante.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qrt.jpg",
     "rating": 86,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Shin_Megami_Tensei_IV" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=shin+megami+tensei+4+3ds" },
-      { "type": "emulation", "label": "Citra", "url": "https://citra-emu.org/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Shin_Megami_Tensei_IV"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=shin+megami+tensei+4+3ds"
+      },
+      {
+        "type": "emulation",
+        "label": "Citra",
+        "url": "https://citra-emu.org/"
+      }
     ]
   },
   {
@@ -598,15 +1065,30 @@
     "developer": "MercurySteam",
     "publisher": "Nintendo",
     "releaseYear": 2017,
-    "genre": ["Metroidvania", "Action", "Platformer"],
+    "genre": [
+      "Metroidvania",
+      "Action",
+      "Platformer"
+    ],
     "description": "Un remake del clásico Metroid II de Game Boy. Samus regresa al planeta SR388 para exterminar a los Metroid. Combate mejorado, gráficos 3D, y el nuevo mecanismo de parry que revitalizó la fórmula. Una joya tardía de la 3DS.",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qsn.jpg",
     "rating": 86,
     "isExclusive": true,
     "links": [
-      { "type": "info", "label": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Metroid:_Samus_Returns" },
-      { "type": "buy", "label": "eBay", "url": "https://www.ebay.com/sch/i.html?_nkw=metroid+samus+returns+3ds" },
-      { "type": "emulation", "label": "Citra", "url": "https://citra-emu.org/" }
+      {
+        "type": "info",
+        "label": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Metroid:_Samus_Returns"
+      },
+      {
+        "type": "buy",
+        "label": "eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=metroid+samus+returns+3ds"
+      },
+      {
+        "type": "emulation",
+        "label": "Citra",
+        "url": "https://citra-emu.org/"
+      }
     ]
   }
 ]
