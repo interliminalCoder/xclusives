@@ -1,0 +1,52 @@
+[
+  {
+    "id": "xbox-360",
+    "name": "Xbox 360",
+    "shortName": "360",
+    "manufacturer": "Microsoft",
+    "releaseYear": 2005,
+    "color": "#2ecc40",
+    "icon": "xbox-360",
+    "description": "La séptima generación de Microsoft trajo el ecosistema Xbox Live, logros y una biblioteca llena de exclusivos que definieron la era digital de los videojuegos."
+  },
+  {
+    "id": "ps2",
+    "name": "PlayStation 2",
+    "shortName": "PS2",
+    "manufacturer": "Sony",
+    "releaseYear": 2000,
+    "color": "#0070d2",
+    "icon": "ps2",
+    "description": "La consola más vendida de la historia con un catálogo legendario. Hogar de sagas inolvidables y joyas exclusivas que marcaron una generación."
+  },
+  {
+    "id": "ps3",
+    "name": "PlayStation 3",
+    "shortName": "PS3",
+    "manufacturer": "Sony",
+    "releaseYear": 2006,
+    "color": "#003791",
+    "icon": "ps3",
+    "description": "La supercomputadora de Sony trajo Blu-ray, PlayStation Network y exclusivos cinematográficos que llevaron el arte del videojuego a otro nivel."
+  },
+  {
+    "id": "ds",
+    "name": "Nintendo DS",
+    "shortName": "DS",
+    "manufacturer": "Nintendo",
+    "releaseYear": 2004,
+    "color": "#e53935",
+    "icon": "ds",
+    "description": "La portátil de doble pantalla que revolucionó el gaming táctil. Un catálogo único con experiencias imposibles de replicar."
+  },
+  {
+    "id": "3ds",
+    "name": "Nintendo 3DS",
+    "shortName": "3DS",
+    "manufacturer": "Nintendo",
+    "releaseYear": 2011,
+    "color": "#ff6f00",
+    "icon": "3ds",
+    "description": "La portátil 3D que continuó el legado de DS con realidad aumentada, StreetPass y una biblioteca exclusiva inolvidable."
+  }
+]
